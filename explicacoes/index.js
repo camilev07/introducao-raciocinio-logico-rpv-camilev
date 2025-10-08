@@ -9,5 +9,5 @@
 // !== Diferente de com validação de tipagem
 
 // = Atribuição
-// == Igualdade
-// === Igualdade levando em consideração o tipo 
+// == Igualdade 2 == "2" -> true
+// === Igualdade levando em consideração o tipo 2 === "2" -> false
