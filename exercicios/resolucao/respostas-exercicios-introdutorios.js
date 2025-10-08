@@ -42,7 +42,6 @@ console.log('10. Se 3 coelhos comem 3 cenouras em 3 minutos, quanto tempo 10 coe
 console.log('R: 3 minutos')
 console.log('### ------------------ ###')
 
-oi camile
 
 
 
