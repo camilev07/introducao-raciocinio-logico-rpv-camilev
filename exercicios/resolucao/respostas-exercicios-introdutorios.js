@@ -15,7 +15,7 @@ console.log ('R: 10.8')
 console.log('###----------------###')
 // 4. Júlia é mais alta que Ana. Ana é mais baixa que Bruno. Qual dos três é o mais alto?
 console.log('4. Júlia é mais alta que Ana. Ana é mais baixa que Bruno. Qual dos três é o mais alto?')
-console.log('R: Júlia ou Bruno')
+console.log('R: Júlia')
 console.log('### ------------------ ###')
 // 5. Em uma sala, há 2 pais e 2 filhos. Qual o número mínimo de pessoas na sala?
 console.log('5. Em uma sala, há 2 pais e 2 filhos. Qual o número mínimo de pessoas na sala?')
@@ -23,7 +23,7 @@ console.log('R: 3')
 console.log('### ------------------ ###')
 // 6. Se o código para "GATO" é 4130, qual é o código para "PATO"?
 console.log('6. Se o código para "GATO" é 4130, qual é o código para "PATO"?')
-console.log('R: 9130')
+console.log('R: 7130')
 console.log('### ------------------ ###')
 // 7. Você tem 50 moedas de 1 real e 50 moedas de 50 centavos. No total, quanto você tem?
 console.log('7. Você tem 50 moedas de 1 real e 50 moedas de 50 centavos. No total, quanto você tem?')
@@ -41,8 +41,11 @@ console.log('### ------------------ ###')
 console.log('10. Se 3 coelhos comem 3 cenouras em 3 minutos, quanto tempo 10 coelhos levarão para comer 10 cenouras?')
 console.log('R: 3 minutos')
 console.log('### ------------------ ###')
+// 11. Se "SOL" está para "LUZ" como "GELO" está para...
+console.log('11. Se "SOL" está para "LUZ" como "GELO" está para...')
+console.log('R: ')
+console.log('### ------------------ ###')
 
-camile
 
 
 
